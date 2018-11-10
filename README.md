@@ -9,6 +9,11 @@
 - 에디터 설정 사용 - .editorconfig 파일 추가
 - npm 사용 - yarn 삭제
 - SEO를 위한 동적 페이지 타이틀, 메타 태그, Open Graph 태그 지원 - [ngx-meta](https://github.com/fulls1z3/ngx-meta)
+- [ ] browserlist
+- [ ] core/shared module
+- [ ] layout module
+- [ ] api
+- [ ] api/auth
 
 ## 최신 패키지 설치
 최신 패키지를 설치하고 해당 버전을 package.json에 동일하게 표시하기 위해 [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)를 사용했습니다.
