@@ -1,6 +1,21 @@
 # Angular Universal Starter
 
-![Angular Universal](https://angular.io/assets/images/logos/concept-icons/universal.png)
+앵귤러 공식 프로젝트 [Angular Universal starter kit](https://github.com/angular/universal-starter)를 기반으로 아래 내용을 반영한 스타터 키트 프로젝트입니다.
+
+- 최신 앵귤러 버전 - Angular 7
+- 최신 의존성 패키지 - RxJS 6, TypeScript 3
+- Scss 사용
+- HTML 언어 ko로 설정
+- 에디터 설정 사용 - .editorconfig 파일 추가
+- npm 사용 - yarn 삭제
+
+#### 최신 패키지 설치
+최신 패키지를 설치하고 해당 버전을 package.json에 동일하게 표시하기 위해 [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)를 사용했습니다.
+- `npm install -g npm-check-updates`
+- `ncu` 
+
+---
+이하 원본 프로젝트 내용
 
 A minimal Angular starter for Universal JavaScript using the [Angular CLI](https://github.com/angular/angular-cli)
 If you're looking for the Angular Universal repo go to [**angular/universal**](https://github.com/angular/universal)  
